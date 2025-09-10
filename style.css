@@ -33,7 +33,7 @@ section {
 
 /* --- Header / Hero --- */
 header {
-  background: green; /* match background */
+  background: red; /* match background */
   color: black;
   text-align: center;
   padding: 100px 20px;
@@ -57,7 +57,7 @@ header p {
 
 /* --- Skills Section --- */
 #skills {
-  background: green;
+  background: red;
 }
 .skills-grid {
   display: grid;
