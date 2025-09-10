@@ -57,7 +57,8 @@ header p {
 
 /* --- Skills Section --- */
 #skills {
-  background: green;
+  background: black;
+  color: green;
 }
 .skills-grid {
   display: grid;
