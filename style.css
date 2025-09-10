@@ -21,6 +21,10 @@ h2 {
   text-align: center; /* centers About Me, Skills, Contact titles */
 }
 
+p {
+  text-align: center;
+}
+
 section {
   padding: 60px 20px;
   max-width: 1000px;
