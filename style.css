@@ -72,6 +72,11 @@ header p {
   text-align: center;
 }
 
+.skill img {
+  width: 60px;
+  height: 60px;
+}
+
 /* --- Projects Section --- */
 #projects .project-grid {
   display: grid;
